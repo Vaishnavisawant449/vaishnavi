@@ -1,0 +1,15 @@
+#p1
+{
+    background-color: aquamarine;
+    height: 400px;
+    width: auto;
+
+}
+.header{
+    background-image: url(pune.jpg);
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin: 30px;
+}
+

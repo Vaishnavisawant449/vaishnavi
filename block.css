@@ -1,0 +1,44 @@
+#s1
+{
+    background-color: aquamarine;
+    width:370px;
+   height: 300px;
+     float: left;
+    margin: 40px;
+}
+
+#s2
+{
+    background-color: blue;
+    width: 850px;
+    height:300px ;
+    float: right;
+    margin: 40px;
+}
+#s3
+{
+    background-color: black;
+    width: 370px;
+    height: 300px;
+    float: left;
+    margin: 40px;
+
+}
+#s4
+{
+    background-color: brown;
+    width: 370px;
+    height: 300px;
+    float: left;
+    margin: 40px;
+
+}
+#s5
+{
+    background-color: aquamarine;
+    width: 370px;
+    height: 300px;
+    float: right;
+    margin: 40px;
+}
+
